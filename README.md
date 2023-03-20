@@ -1,4 +1,4 @@
-# guigu-oa-web
+# oa-web
 
 ## Project setup
 ```
